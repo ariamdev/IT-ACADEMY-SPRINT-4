@@ -7,7 +7,7 @@ public class HelloWorldController {
 
     @GetMapping("/HelloWorld")
     public String hello(@RequestParam(value = "name", defaultValue = "UNKNOWN") String name){
-        return "Hi, " + name + ". You're running a Maeven project. ";
+        return "Hi, " + name + ". You're running a Gradle project. ";
 
     }
 
@@ -16,7 +16,7 @@ public class HelloWorldController {
 
     @GetMapping({"/HelloWorld2", "/HelloWorld2/{name}"})
     public String hello2(@PathVariable(value = "name", required = false) String name){
-        return "Hi, " + (name != null ? name : "UNKNOWN")  + ". You're running a Maeven project. ";
+        return "Hi, " + (name != null ? name : "UNKNOWN")  + ". You're running a Gradle project. ";
     }
 
     //http://localhost:9001/HelloWorld2
