@@ -1,5 +1,5 @@
-[![EN](https://img.shields.io/badge/EN-blue.svg?logo=googletranslate&logoColor=white)](#eng)
-[![CAT](https://img.shields.io/badge/CAT-yellow.svg?logo=googletranslate&logoColor=white)](#cat)
+[![EN](https://img.shields.io/badge/EN-blue.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/README.md)
+[![CAT](https://img.shields.io/badge/CAT-yellow.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/README.cat.md)
 
 1.Introducción a Spring
 =
@@ -8,10 +8,10 @@
 >
 >Cada tema contiene 3 niveles de dificultad. A mayor nivel, mayor dificultad. Así mismo, un mismo nivel puede contener más de un ejercicio.
 
-🌟 Nivel 1
+🌟 [Nivel 1](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl%201/README.es.md)
 -
 
-#### 📍 [Ejercicio 1 - Spring y Maven]()
+#### 📍 [Ejercicio 1 - Spring y Maven](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl%201/S04T01N01/src/main/java/cat/itacademy/s04/t01/n01)
 
 
 Este ejercicio es un primer contacto con Spring y Maven.
@@ -77,10 +77,10 @@ Tendrá que responder a:
 
 ---
 
-⭐🌟Nivel 2
+⭐🌟[Nivel 2](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl%202/README.es.md)
 -
 
-#### 📍 [Ejercicio 1 - Spring y Gradle]()
+#### 📍 [Ejercicio 1 - Spring y Gradle](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl%202/S04T01N02/src/main/java/cat/itacademy/s04/t01/n02)
 
 Verás que este nivel es casi idéntico al nivel 1, pero usando Gradle como Gestor de dependencias.
 
@@ -148,12 +148,12 @@ Tendrá que responder a:
 ---
 
 
-⭐⭐🌟Nivel 3
+⭐⭐🌟[Nivel 3](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/README.es.md)
 -
 
-#### 📍 [Ejercicio 1 - Postman]()
+#### 📍 Ejercicio 1 - Postman
 
-Se trata de probar los proyectos anteriores desde Postman.
+Se trata de probar los [proyectos anteriores](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/README.es.md) desde Postman.
 
 Crea dos entornos:
 
@@ -171,18 +171,21 @@ Ambos entornos tendrán dos variables:
 Proyecto Maven
 -
 
->Puedes consultar el codigo JSON del entorno [aquí]().
+> 📂 Puedes consultar el codigo JSON del entorno Maven [aquí](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Postman/Project%20Maven.postman_environment.json).
 
 Entorno Proyecto Maven:
 
+![img](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Photo/img.png)
 
 Resultado del GET:
 
 >http://localhost:9001/HelloWorld
 
+![img1](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Photo/img_1.png)
 
 >http://localhost:9001/HelloWorld?name=Minombre
 
+![img2](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Photo/img_2.png)
 
 
 <a name="grd"></a>
@@ -190,11 +193,16 @@ Resultado del GET:
 Proyecto Gradle
 -
 
+> 📂 Puedes consultar el codigo JSON del entorno Maven [aquí](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Postman/Project%20Gradle.postman_environment.json).
+
 Entorno Proyecto Gradle
 
+![img3](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Photo/img_3.png)
 
 >http://localhost:9001/HelloWorld2
 
+![img4](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Photo/img_4.png)
 
 >http://localhost:9001/HelloWorld2/minombre
 
+![img5](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Photo/img_5.png)
