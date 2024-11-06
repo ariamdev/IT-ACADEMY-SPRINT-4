@@ -11,7 +11,7 @@
 🌟Nivell 1
 -
 
-#### 📍[Exercici 1 - Spring i Maven]()
+#### 📍[Exercici 1 - Spring i Maven](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl%201/S04T01N01/src/main/java/cat/itacademy/s04/t01/n01)
 
 Aquest exercici és un primer contacte amb Spring i Maven.
 
