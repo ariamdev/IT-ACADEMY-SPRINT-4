@@ -1,5 +1,5 @@
-[![EN](https://img.shields.io/badge/EN-blue.svg?logo=googletranslate&logoColor=white)](#eng)
-[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)](#es)
+[![EN](https://img.shields.io/badge/EN-blue.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/README.md)
+[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/README.es.md)
 
 1.Introducció a Spring
 =
@@ -8,10 +8,10 @@
 >
 >Cada tema conté 3 nivells de dificultat. A major nivell, major dificultat. Així mateix, un mateix nivell pot contenir més d'un exercici.
 
-🌟Nivell 1
+🌟[Nivell 1](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl%201/README.cat.md)
 -
 
-#### 📍[Exercici 1 - Spring i Maven]()
+#### 📍[Exercici 1 - Spring i Maven](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl%201/S04T01N01/src/main/java/cat/itacademy/s04/t01/n01)
 
 Aquest exercici és un primer contacte amb Spring i Maven.
 
@@ -75,10 +75,10 @@ Haurà de respondre a:
 
 ---
 
-⭐🌟Nivell 2
+⭐🌟[Nivell 2](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl%202/README.cat.md)
 -
 
-#### 📍 [Exercici 1 - Spring i Gradle]()
+#### 📍 [Exercici 1 - Spring i Gradle](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl%202/S04T01N02/src/main/java/cat/itacademy/s04/t01/n02)
 
 Veuràs que aquest nivell és quasi idèntic al nivell 1, però fent servir Gradle com a Gestor de dependències.
 
@@ -144,11 +144,11 @@ Haurà de respondre a:
 ---
 
 
-⭐⭐🌟Nivell 3
+⭐⭐🌟[Nivell 3](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/README.cat.md)
 -
 
-#### 📍 [Exercici 1 - Postman]()
-Es tracta de provar els anteriors projectes des de Postman.
+#### 📍 Exercici 1 - Postman
+Es tracta de provar els [anteriors projectes](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/README.md) des de Postman.
 
 Crea dos entorns:
 
@@ -166,32 +166,37 @@ Ambdós entorns tindran dues variables:
 Projecte Maven
 -
 
->Pots consultar el codi JSON del entorn [aquí]().
+> 📂 Pots consultar el codi JSON del entorn Maven [aquí](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Postman/Project%20Maven.postman_environment.json).
 
 Entorn Project Maven:
 
-
+![img](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Photo/img.png)
 
 Resultat del GET:
 
 >http://localhost:9001/HelloWorld
 
-
+![img1](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Photo/img_1.png)
 
 >http://localhost:9001/HelloWorld?name=Elmeunom
 
-
-
+![img2](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Photo/img_2.png)
 
 <a name="grd"></a>
 
 Projecte Gradle
 -
 
+> 📂 Pots consultar el codi JSON del entorn Gradle [aquí](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Postman/Project%20Gradle.postman_environment.json)
+
 Entorn Projecte Gradle
 
+![img3](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Photo/img_3.png)
 
 >http://localhost:9001/HelloWorld2
 
+![img4](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Photo/img_4.png)
 
 >http://localhost:9001/HelloWorld2/elmeunom
+
+![img5](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/Lvl3/Resources/Photo/img_5.png)
