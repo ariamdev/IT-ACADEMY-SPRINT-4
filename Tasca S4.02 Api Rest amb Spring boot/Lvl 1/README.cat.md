@@ -1,5 +1,5 @@
-[![EN](https://img.shields.io/badge/EN-blue.svg?logo=googletranslate&logoColor=white)]()
-[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)]()
+[![EN](https://img.shields.io/badge/EN-blue.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/README.md)
+[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/README.es.md)
 
 2.Api Rest amb Spring boot
 =
@@ -12,10 +12,10 @@ S'apren a utilitzar correctament els verbs HTTP i a gestionar els codis de respo
 >
 >Cada tema conté 3 nivells de dificultat. A major nivell, major dificultat. Així mateix, un mateix nivell pot contenir més d'un exercici.
 
-🌟[Nivell 1]
+🌟Nivell 1
 -
 
-#### 📍[Exercici 1 - CRUD amb H2]
+#### 📍[Exercici 1 - CRUD amb H2](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01)
 
 Accedeix a la pàgina ->https://start.spring.io/, i genera un projecte Spring boot amb les següents característiques:
 
@@ -50,15 +50,16 @@ Tenim una entitat anomenada "Fruita", que disposa de les següents propietats:
 Aprofitant l’especificació JPA, hauràs de persistir aquesta entitat a una base de dades H2, seguint el patró MVC.
 Per a això, depenent del Package principal, crearàs una estructura de packages, on ubicaràs les classes que necessitis:
 
->cat.itacademy.s04.t02.n01.controllers
-> 
->cat.itacademy.s04.t02.n01.model
-> 
->cat.itacademy.s04.t02.n01.services
-> 
->cat.itacademy.s04.t02.n01.repository
-> 
->cat.itacademy.s04.t02.n01.exception
+>[cat.itacademy.s04.t02.n01.controllers](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/controller)
+>
+>[cat.itacademy.s04.t02.n01.model](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/model)
+>
+>[cat.itacademy.s04.t02.n01.services](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/service)
+>
+>[cat.itacademy.s04.t02.n01.repository](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/repository)
+>
+>[cat.itacademy.s04.t02.n01.exception](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/exception)
+
 
 La classe ubicada al paquet controllers (FruitaController, per exemple),
 haurà de ser capaç de donar resposta a les següents peticions per actualitzar i consultar informació:
