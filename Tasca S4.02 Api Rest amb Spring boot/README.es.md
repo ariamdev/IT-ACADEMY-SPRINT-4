@@ -1,5 +1,5 @@
-[![EN](https://img.shields.io/badge/EN-blue.svg?logo=googletranslate&logoColor=white)]()
-[![CAT](https://img.shields.io/badge/CAT-yellow.svg?logo=googletranslate&logoColor=white)]()
+[![EN](https://img.shields.io/badge/EN-blue.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/README.md)
+[![CAT](https://img.shields.io/badge/CAT-yellow.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/README.cat.md)
 
 2.Api Rest con Spring boot
 =
@@ -15,7 +15,7 @@ Se aprende a usar correctamente los verbos HTTP y a gestionar los códigos de re
 🌟 [Nivel 1]
 -
 
-#### 📍 [Ejercicio 1 - CRUD con H2]
+#### 📍 [Ejercicio 1 - CRUD con H2](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/README.es.md)
 
 Accede a la página ->https://start.spring.io/, y genera un proyecto Spring boot con las siguientes características:
 
@@ -79,7 +79,7 @@ tendrá que ser capaz de dar respuesta a las siguientes peticiones para actualiz
 ⭐🌟[Nivel 2]
 -
 
-#### 📍 [Ejercicio 1 - CRUD con MySQL]
+#### 📍 [Ejercicio 1 - CRUD con MySQL](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%202/README.es.md)
 
 Accede a la página ->https://start.spring.io/, y genera un proyecto Spring boot con las siguientes características:
 
@@ -113,7 +113,7 @@ Tienes que hacer lo mismo que en el nivel 1, pero persistiendo los datos de MySQ
 ⭐⭐🌟[Nivel 3]
 -
 
-#### 📍 Ejercicio 1 - CRUD con MongoDB
+#### 📍 [Ejercicio 1 - CRUD con MongoDB](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%203/README.es.md)
 
 Accede a la página ->https://start.spring.io/, y genera un proyecto Spring boot con las siguientes características:
 
