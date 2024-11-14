@@ -4,24 +4,73 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a3560e0-9669-4bd6-bb6a-57b9402df40c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 1/README.cat.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 1/README.cat.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 1/README.es.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 1/README.es.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 2/README.cat.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 2/README.cat.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 2/README.es.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 2/README.es.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl3/README.cat.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl3/README.cat.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl3/README.es.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl3/README.es.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/README.cat.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/README.cat.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/README.es.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/README.es.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/README.md" afterDir="false" />
+    <list default="true" id="8a3560e0-9669-4bd6-bb6a-57b9402df40c" name="Changes" comment="&quot;S4 -01&quot;">
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/README.cat.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/README.es.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/S04T02N01Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/controller/FruitController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/exception/custom/DuplicateFruitException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/exception/custom/FruitNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/model/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/repository/FruitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/service/FruitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/service/impl/FruitServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 1/S04T02N01/src/test/java/cat/itacademy/s04/t02/n01/S04T02N01ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/README.cat.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/README.es.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/S04T02N02Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/controller/FruitController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/exception/custom/DuplicateFruitException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/exception/custom/FruitNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/model/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/repository/FruitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/service/FruitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/service/impl/FruitServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 2/S04T02N02/src/test/java/cat/itacademy/s04/t02/n02/S04T02N02ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/README.cat.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/README.es.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/src/main/java/cat/itacademy/s04/t02/n03/S04T02N03Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/src/main/java/cat/itacademy/s04/t02/n03/controller/FruitController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/src/main/java/cat/itacademy/s04/t02/n03/exceptions/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/src/main/java/cat/itacademy/s04/t02/n03/exceptions/custom/DuplicateFruitException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/src/main/java/cat/itacademy/s04/t02/n03/exceptions/custom/FruitNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/src/main/java/cat/itacademy/s04/t02/n03/model/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/src/main/java/cat/itacademy/s04/t02/n03/repository/FruitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/src/main/java/cat/itacademy/s04/t02/n03/service/FruitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/src/main/java/cat/itacademy/s04/t02/n03/service/impl/FruitServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/Lvl 3/S04T02N03/src/test/java/cat/itacademy/s04/t02/n03/S04T02N03ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/README.cat.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/README.es.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca S4.02 Api Rest amb Spring boot/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 1/S04T01N01/src/main/java/cat/itacademy/s04/t01/n01/controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 1/S04T01N01/src/main/java/cat/itacademy/s04/t01/n01/controller/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 2/S04T01N02/src/main/java/cat/itacademy/s04/t01/n02/controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasca S4.01 Introducció a Spring/Lvl 2/S04T01N02/src/main/java/cat/itacademy/s04/t01/n02/controller/HelloWorldController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,10 +113,10 @@
     "Application.S04T01N01Application.executor": "Run",
     "Application.S04T01N02Application.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ainoa/Desktop/ITACADEMY_SPRING_4/Tasca S4.01 Introducció a Spring/Lvl 2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "last_opened_file_path": "C:/Users/ainoa/Desktop/ITACADEMY_SPRING_4/Tasca S4.02 Api Rest amb Spring boot/Lvl 3",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -75,10 +124,11 @@
       <recent name="cat.itacademy.s04.t01.n02.controller" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ainoa\Desktop\ITACADEMY_SPRING_4\Tasca S4.02 Api Rest amb Spring boot\Lvl 3" />
+      <recent name="C:\Users\ainoa\Desktop\ITACADEMY_SPRING_4\Tasca S4.02 Api Rest amb Spring boot\Lvl 2" />
+      <recent name="C:\Users\ainoa\Desktop\ITACADEMY_SPRING_4\Tasca S4.02 Api Rest amb Spring boot\Lvl 1" />
+      <recent name="C:\Users\ainoa\Desktop\ITACADEMY_SPRING_4\Tasca S4.02 Api Rest amb Spring boot" />
       <recent name="C:\Users\ainoa\Desktop\ITACADEMY_SPRING_4\Tasca S4.01 Introducció a Spring\Lvl 2" />
-      <recent name="C:\Users\ainoa\Desktop\ITACADEMY_SPRING_4\Tasca S4.01 Introducció a Spring\Lvl3" />
-      <recent name="C:\Users\ainoa\Desktop\ITACADEMY_SPRING_4\Tasca S4.01 Introducció a Spring\Lvl2\S04T01N02\src\main\java\cat\itacademy\s04\t01\n02" />
-      <recent name="C:\Users\ainoa\Desktop\ITACADEMY_SPRING_4\Tasca S4.01 Introducció a Spring\Lvl 1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ainoa\Desktop\ITACADEMY_SPRING_4\Tasca S4.01 Introducció a Spring\Lvl 1\Resources\Postman" />
@@ -131,6 +181,23 @@
       <option name="presentableId" value="Default" />
       <updated>1730734646616</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;S4 -01&quot;">
+      <option name="closed" value="true" />
+      <created>1730903619197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730903619197</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;S4 -01&quot;">
+      <option name="closed" value="true" />
+      <created>1730903656032</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730903656032</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +224,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;S4 -01&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;S4 -01&quot;" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>

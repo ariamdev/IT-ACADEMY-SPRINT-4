@@ -12,15 +12,9 @@ public class HelloWorldController {
 
     }
 
-    //http://localhost:9000/HelloWorld
-    //http://localhost:9000/HelloWorld?name=AriamDev
-
     @GetMapping({"/HelloWorld2", "/HelloWorld2/{name}"})
     public String hello2(@PathVariable(value = "name", required = false) String name){
         return "Hi, " + (name != null ? name : "UNKNOWN")  + ". You're running a Maeven project. ";
     }
-
-    //http://localhost:9000/HelloWorld2
-    //http://localhost:9000/HelloWorld2/AriamDev
 
 }
