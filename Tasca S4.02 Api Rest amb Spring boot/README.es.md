@@ -12,7 +12,7 @@ Se aprende a usar correctamente los verbos HTTP y a gestionar los códigos de re
 >
 >Cada tema contiene 3 niveles de dificultad. A mayor nivel, mayor dificultad. Así mismo, un mismo nivel puede contener más de un ejercicio.
 
-🌟 [Nivel 1]
+🌟 Nivel 1
 -
 
 #### 📍 [Ejercicio 1 - CRUD con H2](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/README.es.md)
@@ -76,7 +76,7 @@ tendrá que ser capaz de dar respuesta a las siguientes peticiones para actualiz
 
 ---
 
-⭐🌟[Nivel 2]
+⭐🌟Nivel 2
 -
 
 #### 📍 [Ejercicio 1 - CRUD con MySQL](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%202/README.es.md)
@@ -110,7 +110,7 @@ Tienes que hacer lo mismo que en el nivel 1, pero persistiendo los datos de MySQ
 ---
 
 
-⭐⭐🌟[Nivel 3]
+⭐⭐🌟Nivel 3
 -
 
 #### 📍 [Ejercicio 1 - CRUD con MongoDB](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%203/README.es.md)
