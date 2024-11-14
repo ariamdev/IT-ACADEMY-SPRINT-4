@@ -1,5 +1,5 @@
-[![EN](https://img.shields.io/badge/EN-blue.svg?logo=googletranslate&logoColor=white)]()
-[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)]()
+[![EN](https://img.shields.io/badge/EN-blue.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%202/README.md)
+[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%202/README.es.md)
 
 2.Api Rest amb Spring boot
 =
@@ -12,10 +12,10 @@ S'apren a utilitzar correctament els verbs HTTP i a gestionar els codis de respo
 >
 >Cada tema conté 3 nivells de dificultat. A major nivell, major dificultat. Així mateix, un mateix nivell pot contenir més d'un exercici.
 
-⭐🌟[Nivell 2]
+⭐🌟Nivell 2
 -
 
-#### 📍 [Exercici 1 - CRUD amb MySQL]
+#### 📍 [Exercici 1 - CRUD amb MySQL](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%202/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02)
 
 Accedeix a la pàgina ->https://start.spring.io/, i genera un projecte Spring boot amb les següents característiques:
 
@@ -41,6 +41,18 @@ Accedeix a la pàgina ->https://start.spring.io/, i genera un projecte Spring bo
 > - Spring Data JPA
 > - MySQL Driver
 
-Has de fer el mateix que al nivell 1, però persistint les dades a MySQL.
+Has de fer el mateix que al [nivell 1](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/README.cat.md), però persistint les dades a MySQL.
 
----
+📂 **Estructura Packages:**
+
+> [cat.itacademy.s04.t02.n01.controllers](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%202/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/controller)
+> 
+> [cat.itacademy.s04.t02.n01.model](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%202/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/model)
+> 
+> [cat.itacademy.s04.t02.n01.services](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%202/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/service)
+> 
+> [cat.itacademy.s04.t02.n01.repository](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%202/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/repository)
+> 
+> [cat.itacademy.s04.t02.n01.exception](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%202/S04T02N02/src/main/java/cat/itacademy/s04/t02/n02/exception)
+
+
