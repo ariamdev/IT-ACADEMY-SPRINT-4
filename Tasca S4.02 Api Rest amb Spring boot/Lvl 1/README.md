@@ -1,5 +1,5 @@
-[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)]()
-[![CAT](https://img.shields.io/badge/CAT-yellow.svg?logo=googletranslate&logoColor=white)]()
+[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/README.es.md)
+[![CAT](https://img.shields.io/badge/CAT-yellow.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/README.cat.md)
 
 2.Api Rest with Spring boot
 =
@@ -13,10 +13,10 @@ Will learn how to use HTTP verbs correctly and how to manage response codes.
 >
 >Each theme contains 3 levels of difficulty. The higher the level, the greater the difficulty. Likewise, the same level may contain more than one exercise.
 
-🌟 [Level 1]
+🌟 Level 1
 -
 
-#### 📍 [Exercise 1 - CRUD with H2]
+#### 📍 [Exercise 1 - CRUD with H2](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01)
 
 Access to ->https://start.spring.io/ page, and generate a Spring boot project with the following features:
 
@@ -54,15 +54,15 @@ Taking advantage of the JPA specification, you must persist this entity in an H2
 To do this, depending on the main Package, you will create a package structure, where you will locate the classes you need:
 
 
->cat.itacademy.s04.t02.n01.controllers
+>[cat.itacademy.s04.t02.n01.controllers](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/controller)
 >
->cat.itacademy.s04.t02.n01.model
+>[cat.itacademy.s04.t02.n01.model](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/model)
 >
->cat.itacademy.s04.t02.n01.services
+>[cat.itacademy.s04.t02.n01.services](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/service)
 >
->cat.itacademy.s04.t02.n01.repository
+>[cat.itacademy.s04.t02.n01.repository](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/repository)
 >
->cat.itacademy.s04.t02.n01.exception
+>[cat.itacademy.s04.t02.n01.exception](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/S04T02N01/src/main/java/cat/itacademy/s04/t02/n01/exception)
 
 
 The class located in the controllers package (FruitaController, for example),
