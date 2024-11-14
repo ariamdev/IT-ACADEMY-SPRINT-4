@@ -13,7 +13,7 @@ Will learn how to use HTTP verbs correctly and how to manage response codes.
 >
 >Each theme contains 3 levels of difficulty. The higher the level, the greater the difficulty. Likewise, the same level may contain more than one exercise.
 
-🌟 [Level 1]
+🌟 Level 1
 -
 
 #### 📍 [Exercise 1 - CRUD with H2](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201)
@@ -80,7 +80,7 @@ You must be able to respond to the following requests to update and consult info
 
 ---
 
-⭐🌟 [Level 2]
+⭐🌟 Level 2
 -
 
 #### 📍 [Exercise 1 - CRUD with MySQL](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%202)
@@ -114,7 +114,7 @@ Do the same as level 1, but with MySQL.
 
 ---
 
-⭐⭐🌟[Level 3]
+⭐⭐🌟Level 3
 -
 
 #### 📍 [Exercice 1 - CRUD with MongoDB](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%203)
