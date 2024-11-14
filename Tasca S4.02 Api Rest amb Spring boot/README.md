@@ -1,5 +1,5 @@
-[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)]()
-[![CAT](https://img.shields.io/badge/CAT-yellow.svg?logo=googletranslate&logoColor=white)]()
+[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/README.es.md)
+[![CAT](https://img.shields.io/badge/CAT-yellow.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/README.cat.md)
 
 2.Api Rest with Spring boot
 =
@@ -16,7 +16,7 @@ Will learn how to use HTTP verbs correctly and how to manage response codes.
 🌟 [Level 1]
 -
 
-#### 📍 [Exercise 1 - CRUD with H2]
+#### 📍 [Exercise 1 - CRUD with H2](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201)
 
 Access to ->https://start.spring.io/ page, and generate a Spring boot project with the following features:
 
@@ -83,7 +83,7 @@ You must be able to respond to the following requests to update and consult info
 ⭐🌟 [Level 2]
 -
 
-#### 📍 [Exercise 1 - CRUD with MySQL]
+#### 📍 [Exercise 1 - CRUD with MySQL](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%202)
 
 Access to ->https://start.spring.io/ page, and generate a Spring boot project with the following features:
 
@@ -117,7 +117,7 @@ Do the same as level 1, but with MySQL.
 ⭐⭐🌟[Level 3]
 -
 
-#### 📍 Exercice 1 - CRUD with MongoDB
+#### 📍 [Exercice 1 - CRUD with MongoDB](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%203)
 
 Access to ->https://start.spring.io/ page, and generate a Spring boot project with the following features:
 
