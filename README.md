@@ -29,5 +29,5 @@ Conèixer l'estructura bàsica d'un projecte Spring Boot.
 Profunditzarem en el protocol HTTP, les peticions HTTP amb Postman i Microserveis com anotacions, separació de capes, configuració ràpida, etc.
 
 + [**1. Introducció a Spring:**](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.01%20Introducci%C3%B3%20a%20Spring/README.cat.md)  Introducció al framework SPRING. Utilitzarem el protocol HTTP, Postman, i es gestionarà dependències amb Maven i Gradle.
-+ [**2. Api Rest amb Spring boot:**](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/README.cat.md) Realitzarem un CRUD (Create, Read, Update, Delete) amb 3 bases de dades diferents: H2, MySQL i MongoDB. Així mateix, utilitzarem HTTP Verbs, HTTP Headers i HTTP Status Codes gestionant els codis de resposta.
++ [**2. Api Rest amb Spring boot:**](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/README.cat.md) Realitzarem un CRUD (Create, Read, Update, Delete) amb 3 bases de dades diferents: H2, MySQL i MongoDB. Així mateix, utilitzarem HTTP Verbs, HTTP Headers i HTTP Status Codes gestionant els codis de resposta.  
 
