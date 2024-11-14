@@ -12,7 +12,7 @@ S'apren a utilitzar correctament els verbs HTTP i a gestionar els codis de respo
 >
 >Cada tema conté 3 nivells de dificultat. A major nivell, major dificultat. Així mateix, un mateix nivell pot contenir més d'un exercici.
 
-🌟[Nivell 1]
+🌟Nivell 1
 -
 
 #### 📍[Exercici 1 - CRUD amb H2](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%201/README.cat.md)
@@ -75,7 +75,7 @@ haurà de ser capaç de donar resposta a les següents peticions per actualitzar
 
 ---
 
-⭐🌟[Nivell 2]
+⭐🌟Nivell 2
 -
 
 #### 📍 [Exercici 1 - CRUD amb MySQL](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%202/README.cat.md)
@@ -109,7 +109,7 @@ Has de fer el mateix que al nivell 1, però persistint les dades a MySQL.
 ---
 
 
-⭐⭐🌟[Nivell 3]
+⭐⭐🌟Nivell 3
 -
 
 #### 📍 [Exercici 1 - CRUD amb MongoDB](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/Lvl%203/README.cat.md)
