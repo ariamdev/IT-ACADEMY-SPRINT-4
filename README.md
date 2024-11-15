@@ -5,7 +5,7 @@
 # IT ACADEMY - JAVA & SPRING FRAMEWORK
 
 <a name="eng"></a>
-## 📁 Contents Sprint 3:
+## 📁 Contents Sprint 4:
 
 Know the basic structure of a Spring Boot project.
 We will delve into the HTTP protocol, HTTP requests with Postman and Microservices such as annotations, layer separation, quick configuration, etc.
@@ -14,7 +14,7 @@ We will delve into the HTTP protocol, HTTP requests with Postman and Microservic
 + [**2. Api Rest with Spring boot:**](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/tree/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot) We will perform a CRUD (Create, Read, Update, Delete) with 3 different databases: H2, MySQL and MongoDB. We will also use HTTP Verbs, HTTP Headers and HTTP Status Codes to manage response codes.
 
 <a name="es"></a>
-## 📁 Contenidos Sprint 3:
+## 📁 Contenidos Sprint 4:
 
 Conocer la estructura básica de un proyecto Spring Boot.
 Profundizaremos en el protocolo HTTP, las peticiones HTTP con Postman y microservicios como anotaciones, separación de capas, configuración rápida, etc.
@@ -23,7 +23,7 @@ Profundizaremos en el protocolo HTTP, las peticiones HTTP con Postman y microser
 + [**2. Api Rest con Spring boot:**](https://github.com/ariamdev/IT-ACADEMY-SPRINT-4/blob/main/Tasca%20S4.02%20Api%20Rest%20amb%20Spring%20boot/README.es.md) Realizaremos un CRUD (Create, Read, Update, Delete) con 3 bases de datos diferentes: H2, MySQL y MongoDB. Así mismo, utilizaremos HTTP Verbos, HTTP Headers y HTTP Status Codas gestionando los códigos de respuesta.
 
 <a name="cat"></a>
-## 📁 Continguts Sprint 3:
+## 📁 Continguts Sprint 4:
 
 Conèixer l'estructura bàsica d'un projecte Spring Boot.
 Profunditzarem en el protocol HTTP, les peticions HTTP amb Postman i Microserveis com anotacions, separació de capes, configuració ràpida, etc.
