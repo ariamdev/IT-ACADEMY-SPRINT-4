@@ -25,9 +25,8 @@ public class FruitServiceImpl implements FruitService {
 
     @Override
     public Fruit updateFruit(Fruit fruit) {
-        fruitRepository.findById(fruit.getId())
+        Fruit dbFruit = fruitRepository.findById(fruit.getId())
                 .orElseThrow(() -> new FruitNotFoundException("Fruit not found with id " + fruit.getId()));
-        Fruit dbFruit = fruitRepository.getReferenceById(fruit.getId());
         dbFruit.setName(fruit.getName());
         dbFruit.setKg(fruit.getKg());
         return fruitRepository.save(fruit);
